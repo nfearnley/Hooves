@@ -1,0 +1,34 @@
+{
+    "uuid": "ecc61f09-1f7a-413b-9cd6-22f6da1fa805",
+    "shortName": "Hooves",
+    "longName": "Hooves",
+    "companyName": "SlugSource",
+    "versionCode": 1,
+    "versionLabel": "1.0.0",
+    "watchapp":
+    {
+        "watchface": true
+    },
+    "appKeys": {},
+    "resources":
+    {
+        "media":
+        [
+            {
+                "type": "png",
+                "name": "IMAGE_BG",
+                "file": "images/bg.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_HAND_WHITE",
+                "file": "images/hand_white.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_HAND_BLACK",
+                "file": "images/hand_black.png"
+            }
+        ]
+    }
+}
