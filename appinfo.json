@@ -21,13 +21,33 @@
             },
             {
                 "type": "png",
-                "name": "IMAGE_HAND_WHITE",
-                "file": "images/hand_white.png"
+                "name": "IMAGE_PONY_BLACK",
+                "file": "images/pony_black.png"
             },
             {
                 "type": "png",
-                "name": "IMAGE_HAND_BLACK",
-                "file": "images/hand_black.png"
+                "name": "IMAGE_PONY_WHITE",
+                "file": "images/pony_white.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_HOUR_BLACK",
+                "file": "images/hour_black.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_HOUR_WHITE",
+                "file": "images/hour_white.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_MINUTE_BLACK",
+                "file": "images/minute_black.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_MINUTE_WHITE",
+                "file": "images/minute_white.png"
             }
         ]
     }
